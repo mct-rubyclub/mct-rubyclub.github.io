@@ -2,5 +2,6 @@
 
 ### 2021年度
  - [きじはる](kiji-haru.md)
- - [らく](Miyawaki-raku.html)
+ - [らく](Miyawaki-raku.md)
  - [riversunlight](riversunlight.md)
+ - [stonesaw](stonesaw.md)
