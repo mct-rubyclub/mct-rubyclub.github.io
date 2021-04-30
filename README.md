@@ -7,10 +7,7 @@
 
 ### smalruby3の制作
   
-## メンバー紹介
-[takaokouji](https://mct-rubyclub.github.io/members/takaokouji.md)  
-[kiji-haru](https://mct-rubyclub.github.io/members/kiji-haru.md)  
-[Miyawaki-raku](https://mct-rubyclub.github.io/members/Miyawaki-raku.md)  
+## [メンバー紹介](https://mct-rubyclub.github.io/members/) 
 
 2021年度のチラシはコレ！  
 https://github.com/mct-rubyclub/mct-rubyclub.github.io/files/6403561/Ruby.-.pdf
