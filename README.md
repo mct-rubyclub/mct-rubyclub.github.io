@@ -7,8 +7,7 @@
 
 ### smalruby3の制作
   
-## メンバー紹介
-リンクを貼る
+## [メンバー紹介](https://mct-rubyclub.github.io/members/) 
 
 2021年度のチラシはコレ！  
 ![チラシ](./RubyClub-flyer-2021-1.png)
